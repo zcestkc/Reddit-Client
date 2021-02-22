@@ -1,6 +1,6 @@
 header .logo {
   font-weight: bold;
-  padding: var(--spacing-2) 0;
+  padding: var(--spacing-1) 0;
   grid-column: 1/2;
   display: flex;
   align-items: center;
@@ -18,4 +18,30 @@ header .logo-icon {
   grid-column: 2/3;
   margin-right: var(--spacing-1);
   font-size: 2rem;
+}
+
+header span {
+  color: var(--color-text-header);
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+.search input {
+  flex-grow: 1;
+  background: var(--color-background-secondary);
+  border: none;
+  padding: var(--spacing-1) var(--spacing-2);
+  height: max-content;
+  border-radius: var(--radius);
+}
+
+.search button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-secondary);
+  font-size: 1.5rem;
 }
