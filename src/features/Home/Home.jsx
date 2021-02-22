@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { AnimatedList } from 'react-animated-list';
 import Post from '../Post/Post';
 import PostLoading from '../Post/PostLoading';
-import getRandomNumber from '../../utils/getRandomNumber.js';
+import getRandomNumber from '../../utils/getRandomNumber';
 import {
   fetchPosts,
   selectFilteredPosts,
