@@ -1,9 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { AnimatedList } from 'react-animated-list';
 import Post from '../Post/Post';
-import PostLoading from '../Post/PostLoading';
-import getRandomNumber from '../../utils/getRandomNumber';
 import {
   fetchPosts,
   selectFilteredPosts,
@@ -20,7 +17,7 @@ const Home = () => {
 
   useEffect(() => {
     dispatch(fetchPosts(selectedSubreddit));
-  }, [selectedSubreddit]);
+  }, [selectedSubreddit, dispatch]);
 
   const onToggleComments = (index) => {
     const getComments = (permalink) => {
@@ -31,11 +28,7 @@ const Home = () => {
   };
 
   if (isLoading) {
-    return (
-      <AnimatedList animation="zoom">
-        {Array(getRandomNumber(3, 10)).fill(<PostLoading />)}
-      </AnimatedList>
-    );
+    return <h3>is Loading</h3>;
   }
 
   if (error) {
@@ -55,9 +48,9 @@ const Home = () => {
   if (posts.length === 0) {
     return (
       <div className="error">
-        <h2>No posts matching "{searchTerm}"</h2>
+        <h2>No posts matching "{searchTerm}</h2>
         <button type="button" onClick={() => dispatch(setSearchTerm(''))}>
-          Go home
+          Go Home
         </button>
       </div>
     );

@@ -27,8 +27,14 @@
   border-radius: var(--radius-2);
 }
 
-.post-image-container .post-image {
+.post-image-container {
   width: 100%;
+  text-align: center;
+}
+.post-image {
+  margin: auto;
+  width: auto;
+  max-height: 500px;
 }
 
 .post-title {
@@ -82,10 +88,10 @@
 
 .icon-action-button {
   background: none;
-  border: none;
+  border: 1px solid black;
   cursor: pointer;
   color: var(--color-text-secondary);
-  padding: 0;
+  padding: 5px;
   display: flex;
   align-items: center;
   border-radius: var(--radius);
