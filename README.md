@@ -1,5 +1,3 @@
-# Visit http://kwanchan.co/reddit-client/ !
-
 <!-- PROJECT LOGO -->
 
 <br />
@@ -11,7 +9,7 @@
   <h3 align="center">Reddit Client</h3>
 
   <p align="center">
-    A sneaker drop website made with React.js and Bootsrap 4
+    A reddit client app made with React and Redux
     <br />
     <br />
     <a href="http://kwanchan.co/reddit-client/" target='#'>View Demo</a>
@@ -30,8 +28,8 @@
 2. [Built With](#built-with)
 3. [Features](#features)
 4. [React](#react)
-5. [Bootstrap](#bootstrap)
-6. [AWS](#aws)
+5. [Redux](#redux)
+6. [Bluehost](#aws)
 7. [SEO](#seo)
 8. [Future Work](#future-work)
 9. [Contact](#contact)
@@ -41,27 +39,23 @@
 
 ## About The Project
 
-I created a sneaker launch website to demonstrate my ability to use React, React-Router and Bootstrap. I have previously used react router in tutorials and I wanted to try it myself and put my own spin on it.
+I created a reddit client website to demonstrate my ability to use React, React-Router and Redux. I have previously used react router in tutorials and I wanted to try it myself and put my own spin on it.
 
-Additionally, I created a form with validation to cement my knowledge of React and I used an external library to assist me with it. Whilst, aslo using AWS to deploy and host the site.
-
-The website is responsive to all screen sizes and has 90+ score on all metrics of the Google Chrome Lighthouse test.
+The website is responsive to all screen sizes.
 
 ### Built With
 
 - [React JS](https://reactjs.org/)
-- [React-Bootstrap](https://react-bootstrap.github.io/)
 - [React Router](https://reactrouter.com/)
-- [React Hook Form](https://react-hook-form.com/)
-- [AWS Amplify](https://aws.com)
+- [React-Redux](https://react-redux.js.org/)
 - HTML/CSS/JS
 
 <!-- USAGE EXAMPLES -->
 
 ## Features
 
-- Landing and Heritage page which implements Bootstrap 4 for styling
-- Preorder form with validation
+- Search bar to display specified posts
+- Subreddit menu to browse different topics
 - Web app is responsive to all screen sizes
 
 <!-- ROADMAP -->
@@ -76,7 +70,7 @@ The website is responsive to all screen sizes and has 90+ score on all metrics o
 
 <!-- Future Improvements -->
 
-## Bootstrap
+## Redux
 
 - Applied the latest version of Bootstrap to make the website aesthetic and modern
 - Leverage the Bootstrap built in Modal and extended it further by using useEffect to turn it into a pop up
@@ -88,10 +82,10 @@ The website is responsive to all screen sizes and has 90+ score on all metrics o
   <img src="./public/images/Bootstrap.png">
 </p> -->
 
-## AWS
+## Bluehost
 
-- Deployed my site online rapidly using AWS Amplify for the first time
-- Connected the site to an actual domain, whilst benefiting from the AWS security certificate
+- Deployed my site online using Bluehost for the first time
+- Connected the site to an actual domain, familarised myself with cPanel functionalities and web hosting
 
 <!-- ## SEO
 
