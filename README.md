@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/zcestkc/Reddit-Client">
-    <img src='./public/images/5.png' width='75%' >
+    <img src='./public/images/display.png' width='75%' >
   </a>
 
   <h3 align="center">Reddit Client</h3>
@@ -80,10 +80,10 @@ The website is responsive to all screen sizes.
 
 ## SEO
 
-Was able to obtain a high score for the Google Lighthouse report, gaining an average of 96
+Obtained a high score for the Google Lighthouse report, gaining an average of 95
 
 <p>
-  <img src="./public/images/seo.png">
+  <img src="./public/images/lighthouse.png">
 </p>
 
 ## Future work
