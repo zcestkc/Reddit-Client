@@ -1,6 +1,6 @@
 {
   "name": "reddit-app",
-  "homepage": "http://kwanchan.co/reddit-client",
+  "homepage": "https://kwanchan.co/reddit-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
