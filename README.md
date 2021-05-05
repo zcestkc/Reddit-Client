@@ -82,7 +82,8 @@ Obtained a high score for the Google Lighthouse report, gaining an average of 95
 
 ## Future work
 
-- Create a user login system with MySQL
+- Create user login to their reddit account
+- Allow user to comment on posts
 
 <!-- CONTACT -->
 
