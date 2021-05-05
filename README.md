@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/zcestkc/Reddit-Client">
-    <img src='./public/images/5.png' width='100%' >
+    <img src='./public/images/5.png' width='75%' >
   </a>
 
   <h3 align="center">Reddit Client</h3>
@@ -12,7 +12,7 @@
     A reddit client app made with React and Redux
     <br />
     <br />
-    <a href="http://kwanchan.co/reddit-client/" target='#'>View Demo</a>
+    <a href="http://kwanchan.co/reddit-client/" target='#'>Visit Site</a>
     ·
     <a href="https://github.com/zcestkc/Reddit-Client/issues">Report Bug</a>
     ·
@@ -85,13 +85,13 @@ The website is responsive to all screen sizes.
 - Deployed my site online using Bluehost for the first time
 - Connected the site to an actual domain, familarised myself with cPanel functionalities and web hosting
 
-<!-- ## SEO
+## SEO
 
 Was able to obtain a high score for the Google Lighthouse report, gaining an average of 96
 
 <p>
-  <img src="./public/images/SEO.PNG">
-</p> -->
+  <img src="./public/images/seo.png">
+</p>
 
 ## Future work
 
