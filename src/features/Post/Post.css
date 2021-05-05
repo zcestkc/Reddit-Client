@@ -25,16 +25,12 @@
   width: 100%;
   overflow: hidden;
   border-radius: var(--radius-2);
-}
-
-.post-image-container {
-  width: 100%;
   text-align: center;
 }
+
 .post-image {
   margin: auto;
-  width: auto;
-  max-height: 500px;
+  width: 100%;
 }
 
 .post-title {
