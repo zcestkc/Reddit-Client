@@ -62,20 +62,13 @@ The website is responsive to all screen sizes.
 
 ## React
 
-- Implemented the use of React hooks through the project
-- Utilised useEffect to create the countdown timer in the footer
-- Applied .map() to create all the image components
-- Leverage external libraries to create the form
-- Used React Router to switch between pages
+- 
 
 <!-- Future Improvements -->
 
 ## Redux
 
-- Applied the latest version of Bootstrap to make the website aesthetic and modern
-- Leverage the Bootstrap built in Modal and extended it further by using useEffect to turn it into a pop up
-- Took advantage of the responsive navbar and added custom CSS to change the default styling.
-
+- 
 <!-- <p>
   <img src="./public/images/Bootstrap.png">
 </p> -->
