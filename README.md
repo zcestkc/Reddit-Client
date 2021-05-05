@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/samatarx/Sneaker-Launch">
-    <img src='./public/images/5.png' width='250px' >
+    <img src='./public/images/5.png' width='100%' >
   </a>
 
   <h3 align="center">Sneaker Drop</h3>
