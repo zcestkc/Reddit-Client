@@ -29,7 +29,7 @@
 3. [Features](#features)
 4. [React](#react)
 5. [Redux](#redux)
-6. [Bluehost](#aws)
+6. [Bluehost](#bluehost)
 7. [SEO](#seo)
 8. [Future Work](#future-work)
 9. [Contact](#contact)
@@ -75,8 +75,6 @@ The website is responsive to all screen sizes.
 - Applied the latest version of Bootstrap to make the website aesthetic and modern
 - Leverage the Bootstrap built in Modal and extended it further by using useEffect to turn it into a pop up
 - Took advantage of the responsive navbar and added custom CSS to change the default styling.
-
-![Bootstrap](/public/images/Bootstrap.PNG)
 
 <!-- <p>
   <img src="./public/images/Bootstrap.png">
