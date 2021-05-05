@@ -56,13 +56,14 @@ The project involves APIs, responsive design and semantically written codes.
 
 ## React
 
-- 
-
-
+- Implemented techniques such as react router and hooks
+- Enhanced user experience with faster rendering compared to pure HTML
 
 ## Redux
 
-- 
+- Centralised the app's state in a single place and kept the changes in my app more predictable and traceable
+- Reducer functions made logic easier to test
+- Utilised Reduc DevTool's time-travel feature for debugging
 
 ## Bluehost
 
