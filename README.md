@@ -1,68 +1,122 @@
 # Visit https://redditclient-kwan.netlify.app !
 
-## Available Scripts
+<!-- PROJECT LOGO -->
 
-In the project directory, you can run:
+<br />
+<p align="center">
+  <a href="https://github.com/samatarx/Sneaker-Launch">
+    <img src='./public/images/5.png' width='250px' >
+  </a>
 
-### `npm start`
+  <h3 align="center">Sneaker Drop</h3>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    A sneaker drop website made with React.js and Bootsrap 4
+    <br />
+    <br />
+    <a href="https://top100cryptocurrencies.netlify.app/" target='#'>View Demo</a>
+    ·
+    <a href="https://github.com/samatarx/Sneaker-Launch/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/samatarx/Sneaker-Launch/issues">Request Feature</a>
+  </p>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- TABLE OF CONTENTS -->
 
-### `npm test`
+## Table of Contents
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. [About the Project](#about-the-project)
+2. [Built With](#built-with)
+3. [Features](#features)
+4. [React](#react)
+5. [Bootstrap](#bootstrap)
+6. [AWS](#aws)
+7. [SEO](#seo)
+8. [Future Work](#future-work)
+9. [Contact](#contact)
+10. [Acknowledgements](#acknowledgements)
 
-### `npm run build`
+<!-- ABOUT THE PROJECT -->
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## About The Project
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+I created a sneaker launch website to demonstrate my ability to use React, React-Router and Bootstrap. I have previously used react router in tutorials and I wanted to try it myself and put my own spin on it.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Additionally, I created a form with validation to cement my knowledge of React and I used an external library to assist me with it. Whilst, aslo using AWS to deploy and host the site.
 
-### `npm run eject`
+The website is responsive to all screen sizes and has 90+ score on all metrics of the Google Chrome Lighthouse test.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Built With
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React JS](https://reactjs.org/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+- [React Router](https://reactrouter.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [AWS Amplify](https://aws.com)
+- HTML/CSS/JS
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- USAGE EXAMPLES -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Features
 
-## Learn More
+- Landing and Heritage page which implements Bootstrap 4 for styling
+- Preorder form with validation
+- Web app is responsive to all screen sizes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ROADMAP -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## React
 
-### Code Splitting
+- Implemented the use of React hooks through the project
+- Utilised useEffect to create the countdown timer in the footer
+- Applied .map() to create all the image components
+- Leverage external libraries to create the form
+- Used React Router to switch between pages
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<!-- Future Improvements -->
 
-### Analyzing the Bundle Size
+## Bootstrap
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Applied the latest version of Bootstrap to make the website aesthetic and modern
+- Leverage the Bootstrap built in Modal and extended it further by using useEffect to turn it into a pop up
+- Took advantage of the responsive navbar and added custom CSS to change the default styling.
 
-### Making a Progressive Web App
+![Bootstrap](/public/images/Bootstrap.PNG)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+<!-- <p>
+  <img src="./public/images/Bootstrap.png">
+</p> -->
 
-### Advanced Configuration
+## AWS
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- Deployed my site online rapidly using AWS Amplify for the first time
+- Connected the site to an actual domain, whilst benefiting from the AWS security certificate
 
-### Deployment
+<!-- ## SEO
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Was able to obtain a high score for the Google Lighthouse report, gaining an average of 96
 
-### `npm run build` fails to minify
+<p>
+  <img src="./public/images/SEO.PNG">
+</p> -->
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Future work
+
+- Create a user login system with MySQL
+
+<!-- CONTACT -->
+
+## Contact
+
+Kwan Chan - [@kwanchan95](https://twitter.com/kwanchan95)
+
+Project Link: [https://github.com/zcestkc/Reddit-Client/](https://github.com/zcestkc/Reddit-Client/)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Reddit](https://www.reddit.com/)
+- [React](https://reactjs.org/)
+- [React-Redux](https://react-redux.js.org/)
