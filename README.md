@@ -1,24 +1,24 @@
-# Visit https://redditclient-kwan.netlify.app !
+# Visit http://kwanchan.co/reddit-client/ !
 
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
-  <a href="https://github.com/samatarx/Sneaker-Launch">
+  <a href="https://github.com/zcestkc/Reddit-Client">
     <img src='./public/images/5.png' width='100%' >
   </a>
 
-  <h3 align="center">Sneaker Drop</h3>
+  <h3 align="center">Reddit Client</h3>
 
   <p align="center">
     A sneaker drop website made with React.js and Bootsrap 4
     <br />
     <br />
-    <a href="https://top100cryptocurrencies.netlify.app/" target='#'>View Demo</a>
+    <a href="http://kwanchan.co/reddit-client/" target='#'>View Demo</a>
     ·
-    <a href="https://github.com/samatarx/Sneaker-Launch/issues">Report Bug</a>
+    <a href="https://github.com/zcestkc/Reddit-Client/issues">Report Bug</a>
     ·
-    <a href="https://github.com/samatarx/Sneaker-Launch/issues">Request Feature</a>
+    <a href="https://github.com/zcestkc/Reddit-Client/issues">Request Feature</a>
   </p>
 </p>
 
