@@ -12,7 +12,7 @@
     A reddit client app made with React and Redux
     <br />
     <br />
-    <a href="http://kwanchan.co/reddit-client/" target='#'>Visit Site</a>
+    <a href="https://kwanchan.co/reddit-client/" target='#'>Visit Site</a>
     ·
     <a href="https://github.com/zcestkc/Reddit-Client/issues">Report Bug</a>
     ·
