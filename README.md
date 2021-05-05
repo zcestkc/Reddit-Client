@@ -1,15 +1,13 @@
 <!-- PROJECT LOGO -->
-
-<br />
 <p align="center">
   <a href="https://github.com/zcestkc/Reddit-Client">
     <img src='./public/images/display.png' width='75%' >
   </a>
 
-  <h3 align="center">Reddit Client</h3>
+  <h3 align="center">Reddit App</h3>
 
   <p align="center">
-    A reddit client app made with React and Redux
+    A reddit client made with React and Redux
     <br />
     <br />
     <a href="https://kwanchan.co/reddit-client/" target='#'>Visit Site</a>
@@ -39,14 +37,12 @@
 
 ## About The Project
 
-I created a reddit client website to demonstrate my ability to use React, React-Router and Redux. I have previously used react router in tutorials and I wanted to try it myself and put my own spin on it.
-
-The website is responsive to all screen sizes.
+I created a reddit client website to demonstrate my ability to use React and Redux. This is milestone project from Codecademy's Full-Stack Engineer path, bringing together everything I have learnt about front-end development.
+The project involves APIs, responsive design and semantically written codes.
 
 ### Built With
 
-- [React JS](https://reactjs.org/)
-- [React Router](https://reactrouter.com/)
+- [React](https://reactjs.org/)
 - [React-Redux](https://react-redux.js.org/)
 - HTML/CSS/JS
 
@@ -64,14 +60,11 @@ The website is responsive to all screen sizes.
 
 - 
 
-<!-- Future Improvements -->
+
 
 ## Redux
 
 - 
-<!-- <p>
-  <img src="./public/images/Bootstrap.png">
-</p> -->
 
 ## Bluehost
 
@@ -85,6 +78,8 @@ Obtained a high score for the Google Lighthouse report, gaining an average of 95
 <p>
   <img src="./public/images/lighthouse.png">
 </p>
+
+<!-- Future Improvements -->
 
 ## Future work
 
