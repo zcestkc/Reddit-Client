@@ -1,11 +1,9 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/zcestkc/Reddit-Client">
-    <img src='./public/images/display.png' width='75%' >
-  </a>
-
   <h3 align="center">Reddit App</h3>
-
+  <a href="https://kwanchan.co/reddit-client/">
+    <img src='./public/images/display.png' width='100%' >
+  </a>
   <p align="center">
     A reddit client made with React and Redux
     <br />
